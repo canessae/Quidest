@@ -8,7 +8,7 @@
 The latest version of the Debian ’QuidEst-x.x.x-Linux.deb’ package can be downloaded from 
 ["Releases"](https://github.com/canessae/Quidest/releases)
 For example, you can download the version QuidEst-0.1.0-Linux.deb (60 MB) typing:
-wget https://github.com/canessae/Quidest/releases/download/0.1.0/QuidEst-0.1.0-Linux.deb
+'wget https://github.com/canessae/Quidest/releases/download/0.1.0/QuidEst-0.1.0-Linux.deb'
 
 #### Requirements
 
