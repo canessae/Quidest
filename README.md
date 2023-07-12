@@ -14,5 +14,9 @@ The latest version of the Debian ’QuidEst-x.x.x-Linux.deb’ package can be do
 The minimum HW needed to test QuidEst is any standard PC Computer e.g., Intel Core i5, 64bit and at least 4G RAM, running a recent release of Linux O.S. (23.04LT or newer) having an internal webcam. Other optional HW can be an external USB webcam, audio stereo speakers, or headphones and a smartphone with the free DroidCam app installed (as shown below).
 
 <picture>
+  <img alt="3D Photo" src="https://github.com/canessae/Quidest/issues/2#issue-1801052221" width="132" height="234">
+</picture>
+
+<picture>
   <img alt="3D Photo" src="" width="132" height="234">
 </picture>
