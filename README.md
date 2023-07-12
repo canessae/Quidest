@@ -1,6 +1,6 @@
 ### QuidEst: Real-Time Monocular Depth Map to Sound Conversion System
 
-’QuidEst’ is an algorithm that associates ’spatial sounds’ to specific areas within a video frame in order to locate in real-time the presence of (moving) obstacles from the surroundings (e.g., while walking or cycling) to then send an alarm according to its proximity.
+’QuidEst’ is an algorithm that associates ’spatial sounds’ to specific areas within a video frame in order to locate in real-time the presence of (moving) obstacles from the surroundings (e.g., while walking or cycling) to then send a ring alarm according to its proximity.
 
 For further details on options, etc see ["User's Manual"](https://github.com/canessae/Quidest/blob/main/Quidest-UserManual-v1.pdf)
 
