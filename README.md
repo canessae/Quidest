@@ -18,7 +18,7 @@ The minimum HW needed to test QuidEst is any standard PC Computer e.g., Intel Co
 QuidEst allows to associate in real-time 9 musical notes to 9 specific areas in a video frame in order to send stereo acustic warnings due to the presence of (front or rear) moving obstacles in the surroundings:
 
 <picture>
-  <img alt="QuidEst" src="https://user-images.githubusercontent.com/84878752/252995972-953cd67a-0a73-42c8-b79a-7dce2876c26f.png" width="132" height="234">
+  <img alt="QuidEst" src="https://user-images.githubusercontent.com/84878752/252995972-953cd67a-0a73-42c8-b79a-7dce2876c26f.png" width="330" height="268">
 </picture>
 
 Using Cellphone-as-Webcam:
