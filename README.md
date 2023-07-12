@@ -1,14 +1,13 @@
 ### QuidEst: Real-Time Monocular Depth Map to Sound Conversion System
 
 ’QuidEst’ is an algorithm that associates ’spatial sounds’ to specific areas within a video frame in order to locate in real-time the presence of (moving) obstacles from the surroundings (e.g., while walking or cycling) to then send an alarm according to its proximity
--For details see ["User's Manual"](https://github.com/canessae/Quidest/blob/main/Quidest-UserManual-v1.pdf)
+
+-For details on usage, options, etc see ["User's Manual"](https://github.com/canessae/Quidest/blob/main/Quidest-UserManual-v1.pdf)
 
 #### Binaries
 
 The latest version of the Debian ’QuidEst-x.x.x-Linux.deb’ package can be downloaded from 
 ["Releases"](https://github.com/canessae/Quidest/releases)
-For example, you can download the version QuidEst-0.1.0-Linux.deb (60 MB) typing:
-'wget https://github.com/canessae/Quidest/releases/download/0.1.0/QuidEst-0.1.0-Linux.deb'
 
 #### Requirements
 
