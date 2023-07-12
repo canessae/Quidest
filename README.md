@@ -21,14 +21,14 @@ QuidEst allows to associate in real-time 9 musical notes to 9 specific areas in 
   <img alt="QuidEst" src="https://user-images.githubusercontent.com/84878752/252995972-953cd67a-0a73-42c8-b79a-7dce2876c26f.png" width="330" height="268">
 </picture>
 
+#### Using Cellphone-as-Webcam
+
+<picture>
+  <img alt="QuidEst in action using Cellphone-as-Webcam" src="https://user-images.githubusercontent.com/84878752/252998133-7c40c016-c68d-4356-9060-9dcd1b407103.png" width="330" height="330">
+</picture>
+
 #### YouTube Video
 
 [![QuidEst](https://img.youtube.com/vi/fsVbh53SRio/0.jpg)](https://www.youtube.com/watch?v=fsVbh53SRio "QuidEst")
 
 
-
-Using Cellphone-as-Webcam:
-
-<picture>
-  <img alt="QuidEst in action using Cellphone-as-Webcam" src="https://user-images.githubusercontent.com/84878752/252998133-7c40c016-c68d-4356-9060-9dcd1b407103.png" width="330" height="330">
-</picture>
