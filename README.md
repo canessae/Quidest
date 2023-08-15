@@ -32,3 +32,17 @@ QuidEst allows to associate in real-time 9 musical notes to 9 specific areas in 
 [![QuidEst](https://img.youtube.com/vi/fsVbh53SRio/0.jpg)](https://www.youtube.com/watch?v=fsVbh53SRio "QuidEst")
 
 
+#### Citation
+
+If this software (including any part of it) is useful for you, please cite
+
+```bibtex
+@misc{altiro3D:
+  title = {{QuidEst: Real-Time Monocular Depth Map to Audio Signal Conversion Algorithm}},
+  author = {L. Tenze, E. Canessa},
+  doi = {10.36227/techrxiv.23937945},
+  url = {https://www.techrxiv.org/articles/preprint/QuidEst_Real-Time_Monocular_Depth_Map_to_Audio_Signal_Conversion_Algorithm/23937945},
+  publisher = {IEEE Techrxiv},
+  year = {2023},
+}
+
